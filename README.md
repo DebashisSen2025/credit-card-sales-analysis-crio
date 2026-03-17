@@ -113,6 +113,10 @@ Total Outstanding = SUM(credit_card[outstanding_balance])
 [![GitHub](https://img.shields.io/badge/GitHub-DebashisSen2025-black?style=flat&logo=github)](https://github.com/DebashisSen2025)
 [![Email](https://img.shields.io/badge/Email-sen.debashis.sd@gmail.com-red?style=flat&logo=gmail)](mailto:sen.debashis.sd@gmail.com)
 
+![Screenshot 2026-02-13 181226](https://github.com/user-attachments/assets/336e1d66-5356-41c9-96d5-50a16ebce741)
+
 ---
+![Screenshot 2026-02-13 181132](https://github.com/user-attachments/assets/6cefa4ff-7a9f-4f9d-987b-f9c22198e2b0)
+
 
 ⭐ If you found this project useful, please consider giving it a star!
